@@ -23,7 +23,7 @@ repository               : "ggpu-ecnu/ggpu-ecnu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "69947774-752e-4ae2-a298-385399e761f7_s.png"
   name             : "Geguang Pu (蒲戈光)"
   pronouns         : # example: "she/her"  
   bio              : "Professor and Execution Dean of Software Engineering Institute, East China Normal University."
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=vNt322IAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=niQAGcQAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9750-8334"
