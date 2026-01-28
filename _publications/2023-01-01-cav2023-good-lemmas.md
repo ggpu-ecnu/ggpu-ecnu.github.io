@@ -1,6 +1,8 @@
 ---
 title: "Searching for i-Good Lemmas to Accelerate Safety Model Checking"
-collection: manuscripts
+
+collection: publications
+category: conferences
 permalink: /publication/2023-01-01-cav2023-good-lemmas
 excerpt: 'A new insight for improving the performance of SAT-based model checking. The definition of i-Good lemmas is simple but general, that can be proved to be effective in all state-of-the art model checkers, like Nu-XMV, IC3/PDR and SimpleCAR.'
 date: 2023-01-01
