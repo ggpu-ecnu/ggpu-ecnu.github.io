@@ -22,19 +22,26 @@ I am always looking for self-motivated Ph.D. and Master students to join my grou
 
 ## Former Students (Only list those who are active in academia)
 
-*   Siyuan Jiang, Associate Professor at Eastern Michigan University
+*   [Siyuan Jiang](https://www.emich.edu/computer-science/faculty/s-jiang.php), Associate Professor at Eastern Michigan University
 *   [Jianwen Li](https://lijwen2748.github.io/) (with Jifeng He), Professor at ECNU
 *   [Ting Su](https://tingsu.github.io/) (with Jifeng He), Professor at ECNU
-*   Yueling Zhang, Associate Professor at ECNU
+*   [Yueling Zhang](https://scholar.google.com/citations?user=-g6QrssAAAAJ&hl=en), Associate Professor at ECNU
 *   [Shufang Zhu](https://shufang-zhu.github.io/), Assistant Professor at University of Liverpool
 *   [Chengyu Zhang](https://chengyuzhang.com/), Assistant Professor at Loughborough University
 *   [Jingling Sun](https://jinglingsun.github.io/), Assistant Professor at UESTC
-*   Yechuan Xia, Research Fellow at ECNU
+*   [Yechuan Xia](https://dblp.org/pid/317/0591.html), Research Fellow at ECNU
 
 <hr>
 
 ## Teaching
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign teaching_items = site.teaching | sort: 'date' | reverse %}
+{% for post in teaching_items %}
+### {{ post.title }}
+
+<p>{{ post.type }}{% if post.venue %}, <i>{{ post.venue }}</i>{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}</p>
+
+{{ post.content }}
+
+<hr>
 {% endfor %}

@@ -26,9 +26,9 @@ author:
   avatar           : "69947774-752e-4ae2-a298-385399e761f7_s.png"
   name             : "Geguang Pu (蒲戈光)"
   pronouns         : # example: "she/her"  
-  bio              : "Professor and Execution Dean of Software Engineering Institute, East China Normal University."
+  bio              : "Professor and Execution Dean of Software Engineering Institute, <a href=\"https://www.ecnu.edu.cn/\">East China Normal University</a>."
   location         : "Shanghai, China"
-  employer         : "East China Normal University"
+  employer         : "<a href=\"https://www.ecnu.edu.cn/\">East China Normal University</a>"
   uri              : # URL
   email            : "ggpu@sei.ecnu.edu.cn" 
 
