@@ -23,12 +23,12 @@ I am always looking for self-motivated Ph.D. and Master students to join my grou
 ## Former Students (Only list those who are active in academia)
 
 *   Siyuan Jiang, Associate Professor at Eastern Michigan University
-*   Jiwan Li (with Jifeng He), Professor at ECNU
-*   Ting Su (with Jifeng He), Professor at ECNU
+*   [Jianwen Li](https://lijwen2748.github.io/) (with Jifeng He), Professor at ECNU
+*   [Ting Su](https://tingsu.github.io/) (with Jifeng He), Professor at ECNU
 *   Yueling Zhang, Associate Professor at ECNU
-*   Shufang Zhu, Assistant Professor at University of Liverpool
-*   Chengyu Zhang, Assistant Professor at Loughborough University
-*   Sun Jinglin, Assistant Professor at UESTC
+*   [Shufang Zhu](https://shufang-zhu.github.io/), Assistant Professor at University of Liverpool
+*   [Chengyu Zhang](https://chengyuzhang.com/), Assistant Professor at Loughborough University
+*   [Jingling Sun](https://jinglingsun.github.io/), Assistant Professor at UESTC
 *   Yechuan Xia, Research Fellow at ECNU
 
 <hr>
