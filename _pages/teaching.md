@@ -29,6 +29,7 @@ I am always looking for self-motivated Ph.D. and Master students to join my grou
 *   [Shufang Zhu](https://shufang-zhu.github.io/), Assistant Professor at University of Liverpool
 *   [Chengyu Zhang](https://chengyuzhang.com/), Assistant Professor at Loughborough University
 *   [Jingling Sun](https://jinglingsun.github.io/), Assistant Professor at UESTC
+*   [Yihao Huang](https://huang-yihao.github.io/), Associate Professor at ECNU
 *   [Yechuan Xia](https://dblp.org/pid/317/0591.html), Research Fellow at ECNU
 
 <hr>
